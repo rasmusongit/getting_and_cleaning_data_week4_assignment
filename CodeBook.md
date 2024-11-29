@@ -22,3 +22,6 @@ deviations is in the file "mean_or_std_merged.txt"
       above) with identical values in the "Activity_label" column, computes the mean 
       for each column and stores this in in a single 
       row for the individual Activity_label.
+"activity_labels_averages_no_row_names.txt"
+    * This data is identical to the data in "activity_labels_averages.txt" (see above)
+      but does not contain row numbering. Constructed for upload in submission.
